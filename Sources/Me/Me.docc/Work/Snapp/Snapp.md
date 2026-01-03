@@ -9,7 +9,7 @@
 
 ## Overview
 
-Worked as an iOS developer on different projects in various areas. Contributed to various projects across different areas.  
+Worked as an iOS developer on different projects in various areas.
 
 ### 2020
 Worked on the development of the <doc:PwC>, a white-label Covid contact tracing app.
