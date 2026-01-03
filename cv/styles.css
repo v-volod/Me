@@ -1,0 +1,42 @@
+body {
+    background-color: white;
+    color: #333;
+    font-family: "SF Mono", "Menlo", "Monaco", "Consolas", "Courier New", monospace;
+    line-height: 1.4;
+    font-size: 12px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+h1, h2, h3, h4 {
+    font-weight: bold;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+}
+
+p {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+a {
+    color: #007aff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 20px;
+}
+
+ul ul {
+    padding-left: 20px;
+}
