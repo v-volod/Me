@@ -11,7 +11,7 @@ This article resolves KMP type-safety issues when bridging Kotlin Flows to Swift
 
 ## Introduction
 
-In the [previous part](002_Kotlin-Flow-to-Swift-Combine-A-KMP-Bridge-Part-I) of this article, we explored how to connect Kotlin’s Flows with Swift’s Combine Publishers. We also examined the limitations of Kotlin’s interoperability with Swift/Objective-C and the pitfalls these limitations can create. In this part, we will explore a potential solution to this problem.
+In the [previous part](002_kotlin-flow-to-swift-combine-a-kmp-bridge-part-i) of this article, we explored how to connect Kotlin’s Flows with Swift’s Combine Publishers. We also examined the limitations of Kotlin’s interoperability with Swift/Objective-C and the pitfalls these limitations can create. In this part, we will explore a potential solution to this problem.
 
 ## Bringing Type Safety for KMP APIs in iOS
 
