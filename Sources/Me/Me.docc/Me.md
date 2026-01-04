@@ -27,6 +27,8 @@ While my primary focus is the Apple 🍏 ecosystem, I possess a strong backgroun
 
 I am open to new possibilities. Write an [📩 email](mailto:mail@voiko.dev) to me, or connect at [Linkedin](https://www.linkedin.com/in/vvoiko/).
 
+Download my [CV](https://raw.githubusercontent.com/v-volod/Me/refs/heads/cv/cv/cv.pdf) in PDF.
+
 ## Projects
 
 This section provides a chronological overview of my career, highlighting key projects and their respective tech stacks. 
